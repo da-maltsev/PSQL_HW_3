@@ -18,7 +18,7 @@ insert into albums values (DEFAULT, 'Hot Pink', '2018-11-07');
 insert into albums values (DEFAULT, 'Will of the People','2022-08-26');
 insert into albums values (DEFAULT, 'Reimagined','2020-02-21');
 insert into albums values (DEFAULT, 'For You', '2007-10-10');
-insert into albums values DEFAULT, 'Blood Harmony', '2019-10-04'
+insert into albums values (DEFAULT, 'Blood Harmony', '2019-10-04');
 insert into tracks values (DEFAULT, '9 crimes', 223, 1);
 insert into tracks values (DEFAULT, 'Elephant', 357, 1);
 insert into tracks values (DEFAULT, 'With or without you', 296, 2);
