@@ -32,6 +32,7 @@ insert into tracks values (DEFAULT, 'Verona', 100, 5);
 insert into tracks values (DEFAULT, 'Cry Cry Cry', 184, 6);
 insert into tracks values (DEFAULT, 'BrokEn', 148, 6);
 insert into tracks values (DEFAULT, 'I will give you this live', 246, 7);
+insert into tracks values (DEFAULT, 'YA', 666, 7);
 insert into tracks values (DEFAULT, 'Die Alone', 262, 8);
 insert into tracks values (DEFAULT, 'Lost My Mind', 293, 8);
 insert into mixtapes  values (DEFAULT, 'Relax', '2019-10-04');
